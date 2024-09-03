@@ -6,7 +6,7 @@ This is an Online examintion system with Video Surveillance.
 
 - [Website link](https://oexamination.herokuapp.com/)
 - [Download Thunder Client Collection import files](https://drive.google.com/file/d/1-FCrBSEVCV9p1SL1IDzlPfsjFWoA50ln/view?usp=sharing)
-- [Backend GitHub repo link](https://github.com/Nayan-Bera/oexamination)
+- [Backend GitHub repo link](https://github.com/Nayan-Bera/Practo-Backend)
 
 ## Installation
 
