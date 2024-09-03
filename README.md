@@ -3,7 +3,7 @@
 This is an Online examintion system with Video Surveillance.
 
 ## Project Essentials Links:
-- [website link](practoexam.vercel.app)
+- [website link](https://practoexam.vercel.app/signin)
 - [Backend GitHub repo link](https://github.com/Nayan-Bera/Practo-Backend)
 
 ## Installation
