@@ -14,7 +14,7 @@ Install this project with npm
 
 ```bash
   git clone https://github.com/Nayan-Bera/oexamination-frontend.git
-  cd oexamination-frontend
+  cd Practo-frontend
   npm install
 ```
 
