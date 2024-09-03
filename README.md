@@ -6,14 +6,14 @@ This is an Online examintion system with Video Surveillance.
 
 - [Website link](https://oexamination.herokuapp.com/)
 - [Download Thunder Client Collection import files](https://drive.google.com/file/d/1-FCrBSEVCV9p1SL1IDzlPfsjFWoA50ln/view?usp=sharing)
-- [Backend GitHub repo link](https://github.com/NaveenMohanty/oexamination)
+- [Backend GitHub repo link](https://github.com/Nayan-Bera/oexamination)
 
 ## Installation
 
 Install this project with npm
 
 ```bash
-  git clone https://github.com/NaveenMohanty/oexamination-frontend.git
+  git clone https://github.com/Nayan-Bera/oexamination-frontend.git
   cd oexamination-frontend
   npm install
 ```
